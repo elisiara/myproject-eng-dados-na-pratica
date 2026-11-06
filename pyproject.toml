@@ -1,0 +1,8 @@
+[project]
+name = "myproject-eng-dados-na-pratica"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "duckdb>=2.0.0",
+    "pandas>=3.1.1",
+]
